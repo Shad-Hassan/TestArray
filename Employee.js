@@ -1,0 +1,78 @@
+const arrayEmployee = [
+    {
+        employeeId: 1,
+        employeeName: "Arafat Zaman",
+        employeePicUrl: "https://i.ibb.co/ypr469w/Arafat-Zaman.jpg/",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 2,
+        employeeName: "Amerikano Zamibia",
+        employeePicUrl: "https://i.ibb.co/dcxy2bW/x-men-gold-2017-004-000.webp",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 3,
+        employeeName: "Harry Komol",
+        employeePicUrl: "https://i.ibb.co/Fx1GNcF/Harry-Komol.jpg",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 4,
+        employeeName: "Mushfikur Rahim",
+        employeePicUrl: "https://i.ibb.co/jHXMPnn/Mushfiqur-Rahim.jpg",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 5,
+        employeeName: "Shirsendu Roy",
+        employeePicUrl: "https://i.ibb.co/p2bKLjM/Shirsendu-Roy.jpg",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 6,
+        employeeName: "Komolica Apple",
+        employeePicUrl: "https://i.ibb.co/Lhv80w9/queenandcountry2-1024.webp",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 7,
+        employeeName: "Mohsin Qurayeshi Kuddus",
+        employeePicUrl: "https://i.ibb.co/2sLGxSV/Dipjol.jpg",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+    {
+        employeeId: 8,
+        employeeName: "Meer Abaddon",
+        employeePicUrl: "https://i.ibb.co/FKy6cjN/abaddon.jpg",
+        employeeDesignation: undefined,
+        employeeFacebookUrl:"www.facebook.com",
+        employeeWhatsappUrl:"https://www.whatsapp.com/",
+        employeeLinkedinUrl:"https://www.linkedin.com/",
+    },
+   
+]
+
+
+export default arrayEmployee;
